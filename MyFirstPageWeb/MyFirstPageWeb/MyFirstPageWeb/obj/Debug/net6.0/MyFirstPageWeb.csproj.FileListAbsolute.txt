@@ -30,7 +30,6 @@ C:\Users\GermanBMxD\Desktop\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\obj\Deb
 C:\Users\GermanBMxD\Desktop\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\obj\Debug\net6.0\MyFirstPageWeb.genruntimeconfig.cache
 C:\Users\GermanBMxD\Desktop\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\obj\Debug\net6.0\ref\MyFirstPageWeb.dll
 C:\Users\GermanBMxD\Desktop\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\bin\Debug\net6.0\wwwroot\img\cubofondo.jpg
-D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\bin\Debug\net6.0\wwwroot\img\cubofondo.jpg
 D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\bin\Debug\net6.0\appsettings.Development.json
 D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\bin\Debug\net6.0\appsettings.json
 D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\bin\Debug\net6.0\MyFirstPageWeb.staticwebassets.runtime.json
@@ -62,3 +61,4 @@ D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\obj\Debug\net
 D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\obj\Debug\net6.0\MyFirstPageWeb.pdb
 D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\obj\Debug\net6.0\MyFirstPageWeb.genruntimeconfig.cache
 D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\obj\Debug\net6.0\ref\MyFirstPageWeb.dll
+D:\GITHUB\RubiksCubes\MyFirstPageWeb\MyFirstPageWeb\MyFirstPageWeb\bin\Debug\net6.0\wwwroot\img\cubofondo.jpg
