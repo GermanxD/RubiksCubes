@@ -1,0 +1,43 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.background-img {
+    position: relative;
+    background: url('../img/cubofondo.jpg') center center no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* .square {
+    margin-left: 46%;
+    margin-top: 2%;
+    height: 380px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #081b2a;
+} */
+     
