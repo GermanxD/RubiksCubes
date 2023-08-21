@@ -12,8 +12,4 @@
     </Content>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\img\3x3\" />
-  </ItemGroup>
-
 </Project>

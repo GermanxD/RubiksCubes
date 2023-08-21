@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RO5+L5Xe/o8U9gYhSaWrfbb9zPDztB7yAhCF9+ezuA0=",
+  "Hash": "rEGfkrQiQsHgReV3imC4eNds0zRP0w4zUG7NnrH4KII=",
   "Source": "MyFirstPageWeb",
   "BasePath": "_content/MyFirstPageWeb",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "D:\\GITHUB\\RubiksCubes\\MyFirstPageWeb\\MyFirstPageWeb\\MyFirstPageWeb\\wwwroot\\img\\3x3\\qiyiwarriorw.jpg",
-      "SourceId": "MyFirstPageWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\RubiksCubes\\MyFirstPageWeb\\MyFirstPageWeb\\MyFirstPageWeb\\wwwroot\\",
-      "BasePath": "_content/MyFirstPageWeb",
-      "RelativePath": "img/3x3/qiyiwarriorw.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\3x3\\qiyiwarriorw.jpg"
     },
     {
       "Identity": "D:\\GITHUB\\RubiksCubes\\MyFirstPageWeb\\MyFirstPageWeb\\MyFirstPageWeb\\wwwroot\\img\\cubofondo.jpg",
