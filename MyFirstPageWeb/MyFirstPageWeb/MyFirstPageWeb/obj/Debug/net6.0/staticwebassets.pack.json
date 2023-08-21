@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\GITHUB\\RubiksCubes\\MyFirstPageWeb\\MyFirstPageWeb\\MyFirstPageWeb\\wwwroot\\img\\3x3\\qiyiwarriorw.jpg",
+      "PackagePath": "staticwebassets\\img\\3x3\\qiyiwarriorw.jpg"
+    },
+    {
       "Id": "D:\\GITHUB\\RubiksCubes\\MyFirstPageWeb\\MyFirstPageWeb\\MyFirstPageWeb\\wwwroot\\img\\cubofondo.jpg",
       "PackagePath": "staticwebassets\\img\\cubofondo.jpg"
     },
